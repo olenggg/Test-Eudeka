@@ -2,12 +2,12 @@
 
 Install pipenv
 
-'''
+```
 pip install pipenv
-'''
+```
 
 Di terminal, jalankan file sesuai number
 
-'''
+```
 python number(x).py
-'''
+```
